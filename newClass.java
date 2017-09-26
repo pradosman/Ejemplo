@@ -9,5 +9,5 @@
  * @author David Prados
  */
 public class newClass {
-    
+    int a;
 }
